@@ -1,12 +1,24 @@
-
-.titulo {
-    color: rgb(209, 133, 41);
+.name {
+    margin: 3px;
+    padding: 10px;
 }
 
-.parrafo {
-    font-style: italic;
+.email {
+    margin: 3px;
+    padding: 10px;
 }
 
-.parrafo2 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-};
+.phone {
+    margin: 3px;
+    padding: 10px;
+}
+
+.asks {
+    margin: 3px;
+    padding: 10px;
+}
+
+#text-area {
+    margin: 3px;
+    padding: 10px;
+}
